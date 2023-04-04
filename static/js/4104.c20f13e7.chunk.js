@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_decode_crm_client=self.webpackChunk_decode_crm_client||[]).push([[4104],{4104:function(e,c,n){function t(){return"ForexApplyLive page"}n.r(c),n.d(c,{default:function(){return t}})}}]);
